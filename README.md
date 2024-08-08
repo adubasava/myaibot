@@ -1,1 +1,1 @@
-# myaibot
+# Голосовой AI-бот на Aiogram
